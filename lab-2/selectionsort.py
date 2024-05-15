@@ -22,4 +22,4 @@ def selection_sort(a):
     print(f"b. Number of swaps taken: {swapped_steps}")
 
 
-selection_sort([2, 12, 6, 19, 8, 1])
+selection_sort([2, 1, 12, 19, 8, 16])
