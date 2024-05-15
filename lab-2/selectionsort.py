@@ -4,7 +4,7 @@ def selection_sort(a):
     swapped_steps = 0
     for i in range(n):
         min = i
-        for j in range(i, n):
+        for j in range(i+1, n):
             if a[j] < a[min]:
                 min = j
         
