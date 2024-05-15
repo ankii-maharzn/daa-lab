@@ -1,9 +1,9 @@
 # Design and Analysis of Algorithms
 
-| **Lab No.** |                 Title                  |
-| :---------: | :------------------------------------: |
-|    **1**    | [Implementing Factorial and Fibonacci] |
-|    **2**    |               [Sorting]                |
+| **Lab No.** |               **Title**                | **Status** |
+| :---------: | :------------------------------------: | :--------: |
+|    **1**    | [Implementing Factorial and Fibonacci] |     ✅     |
+|    **2**    |               [Sorting]                |     ✅     |
 
 ---
 
